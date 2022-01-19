@@ -7,6 +7,3 @@ Script to crawl the UNOSAT library for information on all publicly available map
 Requirements: BeautifulSoup, sqlite3 
 
 Outputs sql tables with all the information.
-
-
-Once the sql tables are downloaded, you can use *overview-by-country.py* or *overview-by-category.py* to gain an overview of the maps by country and category (might be adapted to automatically download the shapefiles or geodatabases.)
